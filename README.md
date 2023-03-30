@@ -12,6 +12,7 @@ Two diffeent Logistic Regression models were created by using the original data 
 
 The data collected was used to first and then train the model.
 When we tested the data we obtained the following results.
+
 ![Screenshot 2023-03-30 161950 png1](https://user-images.githubusercontent.com/116110534/228955114-316839d4-3403-449a-8ec4-0182dc40fe36.png)
 
 ![Screenshot 2023-03-30 161453 png 1](https://user-images.githubusercontent.com/116110534/228954002-7d5abc4b-baaf-4655-bdbe-95865e65fe66.png)
